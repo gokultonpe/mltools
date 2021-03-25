@@ -1,0 +1,14 @@
+ONNX Model Parser
+Current Capabilites
+-->Convert ONNX model to JSON Format
+-->Dump all the ONNX operators to a output csv file
+
+Example
+>onnxparser.py SqueezeNet.onnx squeeze
+ONNX Model Parser
+Current Capabilites
+-->Convert ONNX model to JSON Format
+-->Dump all the ONNX operators to a output csv file
+Generating model json...  squeeze.json
+Generating Operator list csv...  squeeze_operatorlist.csv
+Done
